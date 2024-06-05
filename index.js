@@ -8,3 +8,6 @@ console.log("Hello world ")
 =======
 console.log("stash commit")
 >>>>>>> Stashed changes
+
+
+console.log("stash commit")
